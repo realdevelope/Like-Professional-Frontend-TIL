@@ -32,6 +32,12 @@
 
 ## 3. CSS
 
+-   [CSS의 기본](https://github.com/kebin0613/Like-Professional-Frontend-TIL/blob/master/CSS/CSS%EC%9D%98%20%EA%B8%B0%EB%B3%B8.md)
+
+-   [텍스트를 표현하는 다양한 스타일](https://github.com/kebin0613/Like-Professional-Frontend-TIL/blob/master/CSS/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC.md)
+
+-   [레이아웃을 구성하는 CSS 박스 모델](https://github.com/realdevelope/Like-Professional-Frontend-TIL/blob/master/HTML/%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80%20%EC%A7%80%ED%82%A4%EC%9E%90.md)
+
 <br>
 
 ## 4. Javascript
