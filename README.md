@@ -38,6 +38,8 @@
 
 -   [레이아웃을 구성하는 CSS 박스 모델](https://github.com/realdevelope/Like-Professional-Frontend-TIL/blob/master/HTML/%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80%20%EC%A7%80%ED%82%A4%EC%9E%90.md)
 
+-   [이미지와 그라데이션 효과](https://github.com/kebin0613/Like-Professional-Frontend-TIL/blob/master/CSS/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EA%B7%B8%EB%9D%BC%EB%8D%B0%EC%9D%B4%EC%85%98%20%ED%9A%A8%EA%B3%BC.md)
+
 <br>
 
 ## 4. Javascript
