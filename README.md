@@ -40,6 +40,8 @@
 
 -   [이미지와 그라데이션 효과](https://github.com/kebin0613/Like-Professional-Frontend-TIL/blob/master/CSS/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EA%B7%B8%EB%9D%BC%EB%8D%B0%EC%9D%B4%EC%85%98%20%ED%9A%A8%EA%B3%BC.md)
 
+-   [CSS 고급 선택자](https://github.com/kebin0613/Like-Professional-Frontend-TIL/blob/master/CSS/CSS%20%EA%B3%A0%EA%B8%89%20%EC%84%A0%ED%83%9D%EC%9E%90.md)
+
 <br>
 
 ## 4. Javascript
