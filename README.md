@@ -42,6 +42,8 @@
 
 -   [CSS 고급 선택자](https://github.com/kebin0613/Like-Professional-Frontend-TIL/blob/master/CSS/CSS%20%EA%B3%A0%EA%B8%89%20%EC%84%A0%ED%83%9D%EC%9E%90.md)
 
+-   [트랜잭션과 애니메이션](https://github.com/kebin0613/Like-Professional-Frontend-TIL/tree/master/CSS)
+
 <br>
 
 ## 4. Javascript
