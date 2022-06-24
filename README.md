@@ -54,6 +54,8 @@
 
 -   [자바스크립트 기본 문법](https://github.com/realdevelope/Like-Professional-Frontend-TIL/blob/master/Javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
 
+-   [함수와 이벤트](https://github.com/realdevelope/Like-Professional-Frontend-TIL/blob/master/Javascript/%ED%95%A8%EC%88%98%EC%99%80_%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
+
 <br>
 
 ## 5. TypeScript
