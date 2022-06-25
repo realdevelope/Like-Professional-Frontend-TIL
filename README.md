@@ -56,6 +56,8 @@
 
 -   [함수와 이벤트](https://github.com/realdevelope/Like-Professional-Frontend-TIL/blob/master/Javascript/%ED%95%A8%EC%88%98%EC%99%80_%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
 
+-   [자바스크립트와 객체](https://github.com/realdevelope/Like-Professional-Frontend-TIL/blob/master/Javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80_%EA%B0%9D%EC%B2%B4.md)
+
 <br>
 
 ## 5. TypeScript
